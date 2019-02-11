@@ -1,0 +1,12 @@
+body {
+	background-size: cover;
+    background-attachment: fixed;
+	display: block;
+    margin: 8px;
+    color: white;	
+}
+
+
+
+div.inder {padding: 0.5em;}
+div.outer {margin: auto; width: 75%;}	 
